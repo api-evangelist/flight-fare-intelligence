@@ -1,2 +1,16 @@
-# flight-fare-intelligence
-ForgeMesh Labs pay-per-call flight fare intelligence API providing route-level buy/wait recommendations with historical medians and a cheapest-from-JFK fare pulse snapshot. Access is gated by the x402 micropayment protocol (USDC on Base) with no accounts or API keys.
+# Flight Fare Intelligence
+
+This profile was removed, and the provider delisted.
+
+It was one of ~16 x402 API listings pushed to the apis.io Add-API queue by a single
+operator (ForgeMesh Labs) in one short window on 2026-09-17 — several of them outright
+duplicates of one another. That is bulk submission spam. Every auto-submission spends real
+compute researching and building a profile, so flooding the queue has a direct cost.
+
+API Evangelist does not carry listings created by spamming the submission form. The API
+index and every derived artifact have been removed, and this provider is on the permanent
+do-not-list registry.
+
+Spamming the submission queue gets you delisted and banned.
+
+Questions: kin@apievangelist.com
